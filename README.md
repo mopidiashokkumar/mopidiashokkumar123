@@ -1,1 +1,1 @@
-# mopidiashokkumar123
+Hi, I’m Mopidi Ashok Kumar, a Digital Accessibility Testing Specialist with 3.6+ years of experience. I work on making websites and apps accessible for everyone, including people with disabilities. I test using screen readers, follow WCAG 2.0, 2.1, and 2.2 guidelines, and provide clear recommendations to improve accessibility. I enjoy helping my team, learning new tools, and improving user experience across Windows, Mac, Android, and iOS platforms. I also have experience creating VPAT and ACR reports.
